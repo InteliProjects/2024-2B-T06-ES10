@@ -11,10 +11,6 @@ Estruturar o fluxo de entrega contínua através do Github Actions com múltiplo
 
 ## 💻 Projetos Desenvolvidos: 
 
-- Grupo 1 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T06-ES10-G01
-  - https://github.com/Inteli-College/2024-2B-T06-ES10-G01
-
 - Grupo 2 - 
   - Link do repositório: https://github.com/InteliProjects/2024-2B-T06-ES10-G02
   - https://github.com/Inteli-College/2024-2B-T06-ES10-G02
